@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-Ahmed is a developer in flutter and nodeJS. Experience one year in flutter and I have built many projects with clean code and good architecture. Experience two years with front-end web development angular framework.
+Ahmed is a developer in Flutter and .Net. I have Two years in Flutter and I have built many projects with clean code and good architecture—I have Four years with front-end web development angular framework.
 
-* 🌍  I'm based in medina ,SA
+* 🌍  I'm based in Medina,SA
 * ✉️  You can contact me at [ahmed.sayed.abdelaty@outlook.com](mailto:ahmed.sayed.abdelaty@outlook.com)
 
 ### Skills
