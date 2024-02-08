@@ -1,18 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Sayed
+![image](https://github.com/Ahmed525-12/Ahmed525-12/assets/70807060/ac7da2d6-fcb2-497c-b055-2eefde9c9e2a)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Sayed
 ===================================================================================================================================
 
 Developer
 ---------
 
-Ahmed is a developer in Flutter and .Net. I have Two years in Flutter and I have built many projects with clean code and good architecture—I have Four years with front-end web development angular framework.
+Ahmed is a developer in  .Net. I have Two years of experience in ASP Web API and have built many projects with clean code and good architecture, I have Four years in web development.
 
-* 🌍  I'm based in Medina,SA
+* 🌍  I'm based in Medina, SA
 * ✉️  You can contact me at [ahmed.sayed.abdelaty@outlook.com](mailto:ahmed.sayed.abdelaty@outlook.com)
 
 ### Skills
 
 
 <p align="left">
+<a href="[https://dart.dev/](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
